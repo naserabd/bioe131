@@ -1,0 +1,104 @@
+#+1536105287
+Run jupyter notebook --no-browser --port=20000
+#+1536105295
+Run jupyter notebook
+#+1536105323
+Run jupyter notebook --no-browser --
+#+1536105335
+jupyter notebook
+#+1536105575
++1536104776
+#+1536105575
+jitterbug
+#+1536104781
+jitterbug
+#+1536104793
+ssh jitterbug
+#+1536105590
+jupyter notebook --no-browser --port=20000
+#+1536106261
+jupyter notebook --no-browser --port=20000
+#+1536106787
+jupyter notebook --no-browser --port=40000
+#+1536123007
+jupyter notebook --no-browser --port=20001
+#+1536123731
+jupyter notebook --no-browser --port=20002
+#+1536186745
+jupyter notebook --no-browser --port=20000
+#+1536272019
+jupyter notebook --no-browser --port=20000
+#+1536273830
+FastTree -nt < seqs.aligned.fa > tree.nwk
+#+1536276548
+sh chacha
+#+1536276607
+ssh bump
+#+1536358542
+jupyter notebook --no browser --port=20000
+#+1536358575
+jupyter notebook --no-browser --port=20000
+#+1536362926
+jupyter notebook --no-browser --port=40000
+#+1536363695
+mkdir hello_world
+#+1536363707
+cd Lab2
+#+1536363711
+git init
+#+1536363737
+git add *
+#+1536363744
+git commit -a
+#+1536363944
+cd Lab2
+#+1536363946
+git init
+#+1536363952
+git add .
+#+1536363957
+git commit -a
+#+1536363989
+cd Lab2
+#+1536363990
+git init
+#+1536363993
+git add *
+#+1536364016
+git commit -m "Submission-1 of Lab 2"
+#+1536364122
+git remote add origin https://github.com/naserabd/bioe131.git
+#+1536364148
+git push origin master
+#+1536364203
+git pull
+#+1536364271
+git pull https://github.com/naserabd/bioe131.git
+#+1536364939
+git init
+#+1536364944
+git add *
+#+1536364965
+git commit -m "Submission-1 of Lab 2"
+#+1536365002
+git remote add origin https://github.com/naserabd/bioe131.git
+#+1536365014
+git push origin master
+#+1536365061
+git pull
+#+1536365108
+git rm -r *
+#+1536365128
+git rm -rf *
+#+1536365388
+git add *
+#+1536365403
+git commit -m "Submission-1 of Lab 2"
+#+1536365412
+git remote add origin https://github.com/naserabd/bioe131.git
+#+1536365418
+git push origin master
+#+1536365668
+git commit -m "Submission-1 of Lab 2"
+#+1536365671
+git push origin master
